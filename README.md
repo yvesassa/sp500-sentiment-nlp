@@ -22,6 +22,8 @@ Between **April 13 and 14**, AAPL exhibited consistently **negative sentiment**,
 > *“Apple stock pops 6% as investors bet tariffs ease.”*
 
 This illustrates how investor sentiment can shift rapidly in response to headline framing and analyst narratives — a phenomenon that can be quantified and visualized using NLP.
+![AAPL_hourly_sentiment_bar_chart](https://github.com/user-attachments/assets/fcf4185c-e23e-42dc-a20d-de3ef35c8f32)
+
 
 ---
 
