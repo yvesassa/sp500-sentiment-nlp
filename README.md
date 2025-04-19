@@ -58,5 +58,3 @@ This illustrates how investor sentiment can shift rapidly in response to headlin
 - Build a sector-level sentiment dashboard using Streamlit
 
 ---
-
-*Created as part of an academic research project on NLP and financial market behavior.*
