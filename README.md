@@ -6,7 +6,7 @@ We analyze the period from **March 26 to April 15, 2025**, with special attentio
 
 ---
 
-## 🧠 Key Objectives
+##  Key Objectives
 
 - Track **hourly sentiment trends** across top S&P 500 constituents
 - Group sentiment patterns by **sector** (Technology, Energy, Healthcare, etc.)
@@ -15,7 +15,7 @@ We analyze the period from **March 26 to April 15, 2025**, with special attentio
 
 ---
 
-## 📌 Example Insight – Apple Inc. (AAPL)
+##  Example Insight – Apple Inc. (AAPL)
 
 Between **April 13 and 14**, AAPL exhibited consistently **negative sentiment**, likely influenced by concerns over trade tensions and potential supply chain disruptions. On **April 15**, sentiment surged to highly positive levels following major **analyst upgrades** and coverage like:
 
@@ -27,7 +27,7 @@ This illustrates how investor sentiment can shift rapidly in response to headlin
 
 ---
 
-## 🧰 Tools & Libraries
+##  Tools & Libraries
 
 - Python (Jupyter Notebook)
 - `VADER` for sentiment scoring
@@ -37,7 +37,7 @@ This illustrates how investor sentiment can shift rapidly in response to headlin
 
 ---
 
-## 📁 Repository Contents
+##  Repository Contents
 
 - `Sentiment_Analysis_S&P500.ipynb`: Main notebook containing data scraping, sentiment scoring, and visualization.
 - Hourly sentiment line and bar plots (sector-wide and per stock)
@@ -45,13 +45,13 @@ This illustrates how investor sentiment can shift rapidly in response to headlin
 
 ---
 
-## 📊 View the Notebook
+##  View the Notebook
 
-👉 [Click here to view the notebook on GitHub](https://github.com/yourusername/repo-name/blob/main/Sentiment_Analysis_S&P500.ipynb)
+ [Click here to view the notebook on GitHub](https://github.com/yourusername/repo-name/blob/main/Sentiment_Analysis_S&P500.ipynb)
 
 ---
 
-## 📚 Future Work
+##  Future Work
 
 - Merge with stock return data (e.g., Yahoo Finance) to test predictive relationships
 - Add keyword frequency analysis (e.g., "tariffs", "earnings", "upgrade")
