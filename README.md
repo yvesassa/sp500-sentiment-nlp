@@ -45,12 +45,6 @@ This illustrates how investor sentiment can shift rapidly in response to headlin
 
 ---
 
-##  View the Notebook
-
- [Click here to view the notebook on GitHub](https://github.com/yourusername/repo-name/blob/main/Sentiment_Analysis_S&P500.ipynb)
-
----
-
 ##  Future Work
 
 - Merge with stock return data (e.g., Yahoo Finance) to test predictive relationships
