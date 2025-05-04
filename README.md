@@ -1,4 +1,4 @@
-# 📈 S&P 500 Intraday News Sentiment Analysis (Mar–Apr 2025)
+# S&P 500 Intraday News Sentiment Analysis (Mar–Apr 2025)
 
 This project uses Natural Language Processing (NLP) techniques to perform **hourly sentiment analysis** of major S&P 500 stocks based on financial news headlines scraped from Finviz. It aims to identify how investor sentiment evolves in real-time across different sectors in response to macroeconomic and firm-specific events.
 
